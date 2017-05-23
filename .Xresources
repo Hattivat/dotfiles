@@ -1,8 +1,9 @@
+!! Based on but modified:
 !! Color-scheme : Relic Dark
 !! Author       : stark <stark@openmailbox.org>
 
 URxvt*background:            #1D2426
-URxvt*foreground:            #8FA388
+URxvt*foreground:            #FFC200
 URxvt*fading:                15
 URxvt*fadeColor:             black
 URxvt*cursorColor:           #BE5E1E
@@ -12,17 +13,17 @@ URxvt*pointerColorForeground:#16A085
 
 URxvt*color0:  #39474A
 URxvt*color1:  #986345
-URxvt*color2:  #788249
+URxvt*color2:  #5d796a
 URxvt*color3:  #9B6A46
-URxvt*color4:  #3E5951
+URxvt*color4:  #567A6E
 URxvt*color5:  #B9924A
-URxvt*color6:  #5d796a
+URxvt*color6:  #3E5951
 URxvt*color7:  #977D5E
 URxvt*color8:  #4C5F63
 URxvt*color9:  #B07350
-URxvt*color10: #869151
+URxvt*color10: #ff8100
 URxvt*color11: #AF6B42
-URxvt*color12: #567A6E
+URxvt*color12: #8FA388
 URxvt*color13: #D69D55
 URxvt*color14: #668574
 URxvt*color15: #AB9C71
